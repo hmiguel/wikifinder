@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuite failures="0" time="0.042" errors="0" skipped="0" tests="1" name="pt.uc.dei.ia.web.AppTest">
+  <properties>
+    <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
+    <property name="sun.boot.library.path" value="/usr/local/java/jdk1.7.0_21/jre/lib/i386"/>
+    <property name="java.vm.version" value="23.21-b01"/>
+    <property name="java.vm.vendor" value="Oracle Corporation"/>
+    <property name="java.vendor.url" value="http://java.oracle.com/"/>
+    <property name="path.separator" value=":"/>
+    <property name="java.vm.name" value="Java HotSpot(TM) Client VM"/>
+    <property name="file.encoding.pkg" value="sun.io"/>
+    <property name="user.country" value="PT"/>
+    <property name="sun.java.launcher" value="SUN_STANDARD"/>
+    <property name="sun.os.patch.level" value="unknown"/>
+    <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
+    <property name="user.dir" value="/home/hmiguel/workspace/wikifinder"/>
+    <property name="java.runtime.version" value="1.7.0_21-b11"/>
+    <property name="java.awt.graphicsenv" value="sun.awt.X11GraphicsEnvironment"/>
+    <property name="basedir" value="/home/hmiguel/workspace/wikifinder"/>
+    <property name="java.endorsed.dirs" value="/usr/local/java/jdk1.7.0_21/jre/lib/endorsed"/>
+    <property name="os.arch" value="i386"/>
+    <property name="surefire.real.class.path" value="/tmp/surefirebooter8612252678242848938.jar"/>
+    <property name="java.io.tmpdir" value="/tmp"/>
+    <property name="line.separator" value="
+"/>
+    <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
+    <property name="os.name" value="Linux"/>
+    <property name="sun.jnu.encoding" value="UTF-8"/>
+    <property name="java.library.path" value="/usr/java/packages/lib/i386:/lib:/usr/lib"/>
+    <property name="surefire.test.class.path" value="/home/hmiguel/workspace/wikifinder/target/test-classes:/home/hmiguel/workspace/wikifinder/target/classes:/home/hmiguel/.m2/repository/org/eclipse/jetty/jetty-servlet/7.6.0.v20120127/jetty-servlet-7.6.0.v20120127.jar:/home/hmiguel/.m2/repository/org/eclipse/jetty/jetty-security/7.6.0.v20120127/jetty-security-7.6.0.v20120127.jar:/home/hmiguel/.m2/repository/org/eclipse/jetty/jetty-server/7.6.0.v20120127/jetty-server-7.6.0.v20120127.jar:/home/hmiguel/.m2/repository/javax/servlet/servlet-api/2.5/servlet-api-2.5.jar:/home/hmiguel/.m2/repository/org/eclipse/jetty/jetty-continuation/7.6.0.v20120127/jetty-continuation-7.6.0.v20120127.jar:/home/hmiguel/.m2/repository/org/eclipse/jetty/jetty-http/7.6.0.v20120127/jetty-http-7.6.0.v20120127.jar:/home/hmiguel/.m2/repository/org/eclipse/jetty/jetty-io/7.6.0.v20120127/jetty-io-7.6.0.v20120127.jar:/home/hmiguel/.m2/repository/org/eclipse/jetty/jetty-util/7.6.0.v20120127/jetty-util-7.6.0.v20120127.jar:/home/hmiguel/.m2/repository/org/eclipse/jetty/jetty-webapp/7.6.0.v20120127/jetty-webapp-7.6.0.v20120127.jar:/home/hmiguel/.m2/repository/org/eclipse/jetty/jetty-xml/7.6.0.v20120127/jetty-xml-7.6.0.v20120127.jar:/home/hmiguel/.m2/repository/com/sun/jersey/jersey-server/1.8/jersey-server-1.8.jar:/home/hmiguel/.m2/repository/asm/asm/3.1/asm-3.1.jar:/home/hmiguel/.m2/repository/com/sun/jersey/jersey-core/1.8/jersey-core-1.8.jar:/home/hmiguel/.m2/repository/com/sun/jersey/jersey-json/1.8/jersey-json-1.8.jar:/home/hmiguel/.m2/repository/org/codehaus/jettison/jettison/1.1/jettison-1.1.jar:/home/hmiguel/.m2/repository/stax/stax-api/1.0.1/stax-api-1.0.1.jar:/home/hmiguel/.m2/repository/com/sun/xml/bind/jaxb-impl/2.2.3-1/jaxb-impl-2.2.3-1.jar:/home/hmiguel/.m2/repository/javax/xml/bind/jaxb-api/2.2.2/jaxb-api-2.2.2.jar:/home/hmiguel/.m2/repository/javax/xml/stream/stax-api/1.0-2/stax-api-1.0-2.jar:/home/hmiguel/.m2/repository/javax/activation/activation/1.1/activation-1.1.jar:/home/hmiguel/.m2/repository/org/codehaus/jackson/jackson-core-asl/1.7.1/jackson-core-asl-1.7.1.jar:/home/hmiguel/.m2/repository/org/codehaus/jackson/jackson-mapper-asl/1.7.1/jackson-mapper-asl-1.7.1.jar:/home/hmiguel/.m2/repository/org/codehaus/jackson/jackson-jaxrs/1.7.1/jackson-jaxrs-1.7.1.jar:/home/hmiguel/.m2/repository/org/codehaus/jackson/jackson-xc/1.7.1/jackson-xc-1.7.1.jar:/home/hmiguel/.m2/repository/junit/junit/3.8.1/junit-3.8.1.jar:"/>
+    <property name="java.specification.name" value="Java Platform API Specification"/>
+    <property name="java.class.version" value="51.0"/>
+    <property name="sun.management.compiler" value="HotSpot Client Compiler"/>
+    <property name="os.version" value="2.6.35-22-generic"/>
+    <property name="user.home" value="/home/hmiguel"/>
+    <property name="user.timezone" value=""/>
+    <property name="java.awt.printerjob" value="sun.print.PSPrinterJob"/>
+    <property name="file.encoding" value="UTF-8"/>
+    <property name="java.specification.version" value="1.7"/>
+    <property name="user.name" value="hmiguel"/>
+    <property name="java.class.path" value="/home/hmiguel/workspace/wikifinder/target/test-classes:/home/hmiguel/workspace/wikifinder/target/classes:/home/hmiguel/.m2/repository/org/eclipse/jetty/jetty-servlet/7.6.0.v20120127/jetty-servlet-7.6.0.v20120127.jar:/home/hmiguel/.m2/repository/org/eclipse/jetty/jetty-security/7.6.0.v20120127/jetty-security-7.6.0.v20120127.jar:/home/hmiguel/.m2/repository/org/eclipse/jetty/jetty-server/7.6.0.v20120127/jetty-server-7.6.0.v20120127.jar:/home/hmiguel/.m2/repository/javax/servlet/servlet-api/2.5/servlet-api-2.5.jar:/home/hmiguel/.m2/repository/org/eclipse/jetty/jetty-continuation/7.6.0.v20120127/jetty-continuation-7.6.0.v20120127.jar:/home/hmiguel/.m2/repository/org/eclipse/jetty/jetty-http/7.6.0.v20120127/jetty-http-7.6.0.v20120127.jar:/home/hmiguel/.m2/repository/org/eclipse/jetty/jetty-io/7.6.0.v20120127/jetty-io-7.6.0.v20120127.jar:/home/hmiguel/.m2/repository/org/eclipse/jetty/jetty-util/7.6.0.v20120127/jetty-util-7.6.0.v20120127.jar:/home/hmiguel/.m2/repository/org/eclipse/jetty/jetty-webapp/7.6.0.v20120127/jetty-webapp-7.6.0.v20120127.jar:/home/hmiguel/.m2/repository/org/eclipse/jetty/jetty-xml/7.6.0.v20120127/jetty-xml-7.6.0.v20120127.jar:/home/hmiguel/.m2/repository/com/sun/jersey/jersey-server/1.8/jersey-server-1.8.jar:/home/hmiguel/.m2/repository/asm/asm/3.1/asm-3.1.jar:/home/hmiguel/.m2/repository/com/sun/jersey/jersey-core/1.8/jersey-core-1.8.jar:/home/hmiguel/.m2/repository/com/sun/jersey/jersey-json/1.8/jersey-json-1.8.jar:/home/hmiguel/.m2/repository/org/codehaus/jettison/jettison/1.1/jettison-1.1.jar:/home/hmiguel/.m2/repository/stax/stax-api/1.0.1/stax-api-1.0.1.jar:/home/hmiguel/.m2/repository/com/sun/xml/bind/jaxb-impl/2.2.3-1/jaxb-impl-2.2.3-1.jar:/home/hmiguel/.m2/repository/javax/xml/bind/jaxb-api/2.2.2/jaxb-api-2.2.2.jar:/home/hmiguel/.m2/repository/javax/xml/stream/stax-api/1.0-2/stax-api-1.0-2.jar:/home/hmiguel/.m2/repository/javax/activation/activation/1.1/activation-1.1.jar:/home/hmiguel/.m2/repository/org/codehaus/jackson/jackson-core-asl/1.7.1/jackson-core-asl-1.7.1.jar:/home/hmiguel/.m2/repository/org/codehaus/jackson/jackson-mapper-asl/1.7.1/jackson-mapper-asl-1.7.1.jar:/home/hmiguel/.m2/repository/org/codehaus/jackson/jackson-jaxrs/1.7.1/jackson-jaxrs-1.7.1.jar:/home/hmiguel/.m2/repository/org/codehaus/jackson/jackson-xc/1.7.1/jackson-xc-1.7.1.jar:/home/hmiguel/.m2/repository/junit/junit/3.8.1/junit-3.8.1.jar:"/>
+    <property name="java.vm.specification.version" value="1.7"/>
+    <property name="sun.arch.data.model" value="32"/>
+    <property name="java.home" value="/usr/local/java/jdk1.7.0_21/jre"/>
+    <property name="sun.java.command" value="/tmp/surefirebooter8612252678242848938.jar /tmp/surefire3958324146319173651tmp /tmp/surefire7621654233006584641tmp"/>
+    <property name="java.specification.vendor" value="Oracle Corporation"/>
+    <property name="user.language" value="pt"/>
+    <property name="awt.toolkit" value="sun.awt.X11.XToolkit"/>
+    <property name="java.vm.info" value="mixed mode"/>
+    <property name="java.version" value="1.7.0_21"/>
+    <property name="java.ext.dirs" value="/usr/local/java/jdk1.7.0_21/jre/lib/ext:/usr/java/packages/lib/ext"/>
+    <property name="sun.boot.class.path" value="/usr/local/java/jdk1.7.0_21/jre/lib/resources.jar:/usr/local/java/jdk1.7.0_21/jre/lib/rt.jar:/usr/local/java/jdk1.7.0_21/jre/lib/sunrsasign.jar:/usr/local/java/jdk1.7.0_21/jre/lib/jsse.jar:/usr/local/java/jdk1.7.0_21/jre/lib/jce.jar:/usr/local/java/jdk1.7.0_21/jre/lib/charsets.jar:/usr/local/java/jdk1.7.0_21/jre/lib/jfr.jar:/usr/local/java/jdk1.7.0_21/jre/classes"/>
+    <property name="java.vendor" value="Oracle Corporation"/>
+    <property name="localRepository" value="/home/hmiguel/.m2/repository"/>
+    <property name="file.separator" value="/"/>
+    <property name="java.vendor.url.bug" value="http://bugreport.sun.com/bugreport/"/>
+    <property name="sun.cpu.endian" value="little"/>
+    <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
+    <property name="sun.desktop" value="gnome"/>
+    <property name="sun.cpu.isalist" value=""/>
+  </properties>
+  <testcase time="0.008" classname="pt.uc.dei.ia.web.AppTest" name="testApp"/>
+</testsuite>
